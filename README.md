@@ -8,7 +8,7 @@
 - 💻 Background and interest in both Front-end and Back-end development;<br>
 
   
-- 📩 Contact: antonioclaudiocostajr@gmail.com
+📩 Contact: antonioclaudiocostajr@gmail.com
 </p>
 
 ###

@@ -44,6 +44,9 @@
 </p>
 
 ---
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/antoniocostajr01?cardType=level&theme=ocean-dark&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
+
+---
 
 ### 📩 Let's Connect!
 

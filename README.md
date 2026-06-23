@@ -1,6 +1,6 @@
 <h1 align="left">Hello World! I'm Antonio Costa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<h3 align="left">👨‍💻 iOS Developer | Systems Analysis & Administration Student</h3>
+<h3 align="left">👨‍💻 Mobile Developer | Systems Analysis & Administration Student</h3>
 
 <p align="left">
   📱
